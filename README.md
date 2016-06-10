@@ -69,7 +69,7 @@ module.exports = function (shipit) {
 
   ...
 
-  shipit.run('s3');
+  shipit.start('s3');
 };
 ```
 
